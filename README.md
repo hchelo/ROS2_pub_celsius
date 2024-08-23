@@ -26,9 +26,9 @@
 # Construir y ejecutar
     colcon build --packages-select fahrenheit
 	  source install/setup.bash
-Terminal 1
-    ros2 run fahrenheit talker2
-Terminal 2
-    ros2 run fahrenheit listener2
-Terminal 3    
-    ros2 run fahrenheit listener3
+- Terminal 1
+  		ros2 run fahrenheit talker2
+- Terminal 2
+  		ros2 run fahrenheit listener2
+- Terminal 3    
+  		ros2 run fahrenheit listener3
