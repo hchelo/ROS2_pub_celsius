@@ -1,7 +1,7 @@
 # ROS2_pub_celsius
-# Hacer un programa que:
-# Implemente un nodo publicador que publique la temperatura en grados Celsius en un tópico llamado /temperature_celsius a una frecuencia de 1 Hz.
-# Implemente un nodo suscriptor que se suscriba a este tópico, convierta la temperatura a grados Fahrenheit y publique el resultado en un nuevo tópico llamado /temperature_fahrenheit.
+--Hacer un programa que:
+--Implemente un nodo publicador que publique la temperatura en grados Celsius en un tópico llamado /temperature_celsius a una frecuencia de 1 Hz.
+--Implemente un nodo suscriptor que se suscriba a este tópico, convierta la temperatura a grados Fahrenheit y publique el resultado en un nuevo tópico llamado /temperature_fahrenheit.
 
 # Crear el paquete en un src
     ros2 pkg create --build-type ament_python fahrenheit
