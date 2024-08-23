@@ -1,0 +1,46 @@
+[1.110s] Invoking command in '/home/kubu/ROS2/pub_far_cel_ws/src/fahrenheit': PYTHONPATH=/home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/fahrenheit build --build-base /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build install --record /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/install.log --single-version-externally-managed install_data
+[1.402s] running egg_info
+[1.403s] creating ../../build/fahrenheit/fahrenheit.egg-info
+[1.403s] writing ../../build/fahrenheit/fahrenheit.egg-info/PKG-INFO
+[1.403s] writing dependency_links to ../../build/fahrenheit/fahrenheit.egg-info/dependency_links.txt
+[1.403s] writing entry points to ../../build/fahrenheit/fahrenheit.egg-info/entry_points.txt
+[1.404s] writing requirements to ../../build/fahrenheit/fahrenheit.egg-info/requires.txt
+[1.404s] writing top-level names to ../../build/fahrenheit/fahrenheit.egg-info/top_level.txt
+[1.404s] writing manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+[1.405s] reading manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+[1.406s] writing manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+[1.407s] running build
+[1.407s] running build_py
+[1.407s] creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build
+[1.407s] creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib
+[1.407s] creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+[1.407s] copying fahrenheit/pub_temp_celsius.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+[1.407s] copying fahrenheit/__init__.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+[1.407s] copying fahrenheit/sus_pub_temp_fahrenheit.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+[1.408s] copying fahrenheit/sus_nuevo.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+[1.408s] running install
+[1.408s] running install_lib
+[1.408s] creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+[1.408s] copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/pub_temp_celsius.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+[1.409s] copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/__init__.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+[1.409s] copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/sus_pub_temp_fahrenheit.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+[1.409s] copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/sus_nuevo.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+[1.409s] byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/pub_temp_celsius.py to pub_temp_celsius.cpython-310.pyc
+[1.410s] byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/__init__.py to __init__.cpython-310.pyc
+[1.410s] byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/sus_pub_temp_fahrenheit.py to sus_pub_temp_fahrenheit.cpython-310.pyc
+[1.410s] byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/sus_nuevo.py to sus_nuevo.cpython-310.pyc
+[1.411s] running install_data
+[1.411s] creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index
+[1.411s] creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index
+[1.411s] creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index/packages
+[1.411s] copying resource/fahrenheit -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index/packages
+[1.411s] copying package.xml -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/fahrenheit
+[1.412s] running install_egg_info
+[1.414s] Copying ../../build/fahrenheit/fahrenheit.egg-info to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit-0.0.0-py3.10.egg-info
+[1.414s] running install_scripts
+[1.437s] Installing listener2 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+[1.437s] Installing listener3 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+[1.437s] Installing talker2 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+[1.437s] Installing talker3 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+[1.437s] writing list of installed files to '/home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/install.log'
+[1.462s] Invoked command in '/home/kubu/ROS2/pub_far_cel_ws/src/fahrenheit' returned '0': PYTHONPATH=/home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/fahrenheit build --build-base /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build install --record /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/install.log --single-version-externally-managed install_data

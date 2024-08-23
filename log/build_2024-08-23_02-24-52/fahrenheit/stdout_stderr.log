@@ -1,0 +1,44 @@
+running egg_info
+creating ../../build/fahrenheit/fahrenheit.egg-info
+writing ../../build/fahrenheit/fahrenheit.egg-info/PKG-INFO
+writing dependency_links to ../../build/fahrenheit/fahrenheit.egg-info/dependency_links.txt
+writing entry points to ../../build/fahrenheit/fahrenheit.egg-info/entry_points.txt
+writing requirements to ../../build/fahrenheit/fahrenheit.egg-info/requires.txt
+writing top-level names to ../../build/fahrenheit/fahrenheit.egg-info/top_level.txt
+writing manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+reading manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+writing manifest file '../../build/fahrenheit/fahrenheit.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build
+creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib
+creating /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+copying fahrenheit/pub_temp_celsius.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+copying fahrenheit/__init__.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+copying fahrenheit/sus_pub_temp_fahrenheit.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+copying fahrenheit/sus_nuevo.py -> /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit
+running install
+running install_lib
+creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/pub_temp_celsius.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/__init__.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/sus_pub_temp_fahrenheit.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+copying /home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/build/lib/fahrenheit/sus_nuevo.py -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit
+byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/pub_temp_celsius.py to pub_temp_celsius.cpython-310.pyc
+byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/sus_pub_temp_fahrenheit.py to sus_pub_temp_fahrenheit.cpython-310.pyc
+byte-compiling /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit/sus_nuevo.py to sus_nuevo.cpython-310.pyc
+running install_data
+creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index
+creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index
+creating /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index/packages
+copying resource/fahrenheit -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/ament_index/resource_index/packages
+copying package.xml -> /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/share/fahrenheit
+running install_egg_info
+Copying ../../build/fahrenheit/fahrenheit.egg-info to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/python3.10/site-packages/fahrenheit-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener2 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+Installing listener3 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+Installing talker2 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+Installing talker3 script to /home/kubu/ROS2/pub_far_cel_ws/install/fahrenheit/lib/fahrenheit
+writing list of installed files to '/home/kubu/ROS2/pub_far_cel_ws/build/fahrenheit/install.log'

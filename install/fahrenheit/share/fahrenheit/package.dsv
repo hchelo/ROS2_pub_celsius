@@ -1,0 +1,6 @@
+source;share/fahrenheit/hook/pythonpath.ps1
+source;share/fahrenheit/hook/pythonpath.dsv
+source;share/fahrenheit/hook/pythonpath.sh
+source;share/fahrenheit/hook/ament_prefix_path.ps1
+source;share/fahrenheit/hook/ament_prefix_path.dsv
+source;share/fahrenheit/hook/ament_prefix_path.sh

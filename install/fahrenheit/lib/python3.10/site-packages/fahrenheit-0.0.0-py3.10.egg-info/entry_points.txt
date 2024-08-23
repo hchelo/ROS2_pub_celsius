@@ -1,0 +1,6 @@
+[console_scripts]
+listener2 = fahrenheit.sus_pub_temp_fahrenheit:main
+listener3 = fahrenheit.sus_nuevo:main
+talker2 = fahrenheit.pub_temp_celsius:main
+talker3 = fahrenheit.sus_pub_temp_fahrenheit:main
+
